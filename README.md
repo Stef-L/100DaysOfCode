@@ -10,3 +10,8 @@ Progress of #100DaysOfCode Challenge
 2/100:
 	Created a Settings-Activity and read Key-Value-Data from another Activity
 	Found out about the difference between getPreferences (works only in 1 activity) and getSharedPreferences (works within 1 app)
+
+3/100:
+	Tried to use a ConstraintLayout with LayoutParams to set the Layout for different TextViews.
+	It didn't work out. :(
+	Need to search some more for example usages and find out where's the difference from the Buttons in the MainActivity.
