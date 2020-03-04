@@ -15,3 +15,9 @@ Progress of #100DaysOfCode Challenge
 	Tried to use a ConstraintLayout with LayoutParams to set the Layout for different TextViews.
 	It didn't work out. :(
 	Need to search some more for example usages and find out where's the difference from the Buttons in the MainActivity.
+
+4/100:
+	Created a launcher icon for the app. Cool thing to actually see it on the phone! :)
+	Did some error searching and restored a previous state although this is also still not working properly in the SettingsActivity. Will have to search for it. Or maybe try and find out how to create a list of movable items and then how to store the order.
+	Created a new signed APK for install on the physical phone.
+
