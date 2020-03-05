@@ -21,3 +21,7 @@ Progress of #100DaysOfCode Challenge
 	Did some error searching and restored a previous state although this is also still not working properly in the SettingsActivity. Will have to search for it. Or maybe try and find out how to create a list of movable items and then how to store the order.
 	Created a new signed APK for install on the physical phone.
 
+5/100:
+	no concentration for real coding. (Read about Preference and Settings with the new Jetpack possibilities)
+	Downloaded git, set up AndroidStudio with git. Created a new Repository and Pushed local development for the first time to Github. Did a small change and pushed change. It works! Next step: Finding out how to use branches and merge things.
+	
